@@ -2,23 +2,23 @@ import { siteConfig } from './lib/site-config'
 
 export default siteConfig({
   // the site's root Notion page (required)
-  rootNotionPageId: '4a51f4a5c37049d9820d9e41354b7653', #https://www.notion.so/4a51f4a5c37049d9820d9e41354b7653?v=3db1a11d9f7b4f01a754470d0406c935
+  rootNotionPageId: '4a51f4a5c37049d9820d9e41354b7653',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'BoolGallery',
+  name: 'BoolG',
   domain: 'Gallery.boolv.tech',
-  author: 'Alex',
+  author: 'Alex L',
 
   // open graph metadata (optional)
-  description: 'This is a free background gallery site for E-commerce',
+  description: 'Free E-commerce Background Gallery',
 
   // social usernames (optional)
   twitter: 'AlexLiu78773062',
-  linkedin: 'xintong-liu-449297241',
+  //linkedin: 'fisch2',
   // mastodon: '#', // optional mastodon profile URL, provides link verification
   // newsletter: '#', // optional newsletter URL
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
