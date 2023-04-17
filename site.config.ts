@@ -2,7 +2,7 @@ import { siteConfig } from './lib/site-config'
 
 export default siteConfig({
   // the site's root Notion page (required)
-  rootNotionPageId: '4a51f4a5c37049d9820d9e41354b7653',
+  rootNotionPageId: '4a51f4a5c37049d9820d9e41354b7653', #https://www.notion.so/4a51f4a5c37049d9820d9e41354b7653?v=3db1a11d9f7b4f01a754470d0406c935
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
@@ -17,9 +17,8 @@ export default siteConfig({
   description: 'This is a free background gallery site for E-commerce',
 
   // social usernames (optional)
-  twitter: 'ALex',
-  github: 'Alex',
-  linkedin: 'Alex',
+  twitter: 'AlexLiu78773062',
+  linkedin: 'xintong-liu-449297241',
   // mastodon: '#', // optional mastodon profile URL, provides link verification
   // newsletter: '#', // optional newsletter URL
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
